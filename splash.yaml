@@ -1,0 +1,18 @@
+flutter_native_splash:
+  color: "#272727"
+  color_dark: "#272727"
+  image: assets/logos/itundaSplash.png
+  image_dark: assets/logos/itundaSplash.png
+  android: true
+  ios: true
+
+
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/itundaSplash.png
+    image_dark: assets/logos/itundasplash.png
+
+
+    web: false
